@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: effbac57b4b344f5b17cb52ea696387f, type: 3}
   m_Name: PlayerConfig
   m_EditorClassIdentifier: 
-  maxSpeed: 6
-  acceleration: 40
-  deceleration: 50
-  jumpForce: 8
-  groundCheckRadius: 0.5
-  groundLayers:
+  <MaxSpeed>k__BackingField: 6
+  <Acceleration>k__BackingField: 40
+  <Deceleration>k__BackingField: 50
+  <JumpForce>k__BackingField: 7
+  <GroundCheckRadius>k__BackingField: 0.5
+  <GroundLayers>k__BackingField:
     serializedVersion: 2
     m_Bits: 64
